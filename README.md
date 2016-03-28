@@ -4,7 +4,7 @@
 Features of TodoApp
 -------------------
 
-* [Index](https://raw.githubusercontent.com/BelieveC/Rails_TodoApp/master/PreviewImages/edit.png)
+* [Index](https://raw.githubusercontent.com/BelieveC/Rails_TodoApp/master/PreviewImages/index.png)
 * [New](https://raw.githubusercontent.com/BelieveC/Rails_TodoApp/master/PreviewImages/new.png)
 * [Edit](https://raw.githubusercontent.com/BelieveC/Rails_TodoApp/master/PreviewImages/edit.png)
 * [Show](https://raw.githubusercontent.com/BelieveC/Rails_TodoApp/master/PreviewImages/show.png)
