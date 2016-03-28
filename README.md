@@ -1,5 +1,5 @@
 [My TodoApp](https://github.com/BelieveC/Rails_TodoApp)
-========================
+===================================================
 
 Features of TodoApp
 -------------------
